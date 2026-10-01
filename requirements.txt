@@ -1,10 +1,8 @@
-import sklearn, imblearn, xgboost
-
-print("numpy", np.__version__)
-print("pandas", pd.__version__)
-print("matplotlib", plt.matplotlib.__version__)
-print("seaborn", sns.__version__)
-print("scikit-learn", sklearn.__version__)
-print("imbalanced-learn", imblearn.__version__)
-print("xgboost", xgboost.__version__)
-print("joblib", joblib.__version__)
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
+joblib
