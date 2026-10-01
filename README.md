@@ -102,12 +102,11 @@ in the test set.
 
 ![Feature Importance](feature_importance.png)
 
-## Key Findings
+### Key Findings
 
-- Month-to-month customers showed higher churn rates than customers on longer
-  contracts.
+- Month-to-month customers showed higher churn rates than customers on longer contracts.
 - Customer tenure was strongly related to churn behaviour.
-- - Fiber customers have a churn rate of about 42%, compared with 19% for DSL customers and 7% for customers without internet service.
+- Fiber customers have a churn rate of about 42%, compared with 19% for DSL customers and 7% for customers without internet service.
 - Customers using electronic check have a churn rate of about 45%, compared with approximately 15%–19% for the other payment methods.
 - Customers without tech support or online security have a churn rate of about 42%, compared with about 15% among customers who have these services.
 
