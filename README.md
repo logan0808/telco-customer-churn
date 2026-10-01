@@ -130,7 +130,7 @@ The project includes a reusable `predict_churn()` function.
 Example output:
 
 ```text
-Churn probability: 0.46
+Churn probability: 0.66
 Prediction: Churn
 ```
 
