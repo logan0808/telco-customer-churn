@@ -148,5 +148,5 @@ The main analysis is available in `Telco_customer_churn.ipynb`.
 pip install -r requirements.txt
 ```
 
-3. Open `Telco_customer_churn_P.ipynb` in Jupyter Notebook or JupyterLab.
+3. Open `Telco_customer_churn.ipynb` in Jupyter Notebook or JupyterLab.
 4. Run the notebook cells from top to bottom.
