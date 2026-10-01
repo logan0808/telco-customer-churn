@@ -107,9 +107,9 @@ in the test set.
 - Month-to-month customers showed higher churn rates than customers on longer
   contracts.
 - Customer tenure was strongly related to churn behaviour.
-- [Add your actual finding about InternetService.]
-- [Add your actual finding about PaymentMethod.]
-- [Add your actual finding about TechSupport / OnlineSecurity.]
+- - Fiber customers have a churn rate of about 42%, compared with 19% for DSL customers and 7% for customers without internet service.
+- Customers using electronic check have a churn rate of about 45%, compared with approximately 15%–19% for the other payment methods.
+- Customers without tech support or online security have a churn rate of about 42%, compared with about 15% among customers who have these services.
 
 ## Business Recommendations
 
@@ -130,6 +130,22 @@ The project includes a reusable `predict_churn()` function.
 
 Example output:
 
+
 ```text
-Churn probability: 0.66
+Churn probability: 0.46
 Prediction: Churn
+## Notebook
+
+The main analysis is available in `Telco_customer_churn_P.ipynb`.
+
+## How to Run
+
+1. Clone this repository.
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open `Telco_customer_churn_P.ipynb` in Jupyter Notebook or JupyterLab.
+4. Run the notebook cells from top to bottom.
