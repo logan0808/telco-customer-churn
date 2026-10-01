@@ -102,7 +102,7 @@ in the test set.
 
 ![Feature Importance](feature_importance.png)
 
-### Key Findings
+## Key Findings
 
 - Month-to-month customers showed higher churn rates than customers on longer contracts.
 - Customer tenure was strongly related to churn behaviour.
