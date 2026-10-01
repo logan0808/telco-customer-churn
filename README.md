@@ -141,11 +141,6 @@ The main analysis is available in `Telco_Customer_Churn.ipynb`.
 ## How to Run
 
 1. Clone this repository.
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
+2. Install the required dependencies
 3. Open `Telco_Customer_Churn.ipynb` in Jupyter Notebook or JupyterLab.
 4. Run the notebook cells from top to bottom.
