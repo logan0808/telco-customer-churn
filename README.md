@@ -137,7 +137,7 @@ Prediction: Churn
 
 ## Notebook
 
-The main analysis is available in `Telco_customer_churn_P.ipynb`.
+The main analysis is available in `Telco_customer_churn.ipynb`.
 
 ## How to Run
 
