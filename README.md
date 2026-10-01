@@ -88,19 +88,19 @@ in the test set.
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### Precision-Recall Curve
 
-![Precision-Recall Curve](images/pr_curve.png)
+![Precision-Recall Curve](pr_curve.png)
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ## Key Findings
 
