@@ -130,10 +130,11 @@ The project includes a reusable `predict_churn()` function.
 
 Example output:
 
-
 ```text
 Churn probability: 0.46
 Prediction: Churn
+```
+
 ## Notebook
 
 The main analysis is available in `Telco_customer_churn_P.ipynb`.
